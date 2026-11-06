@@ -1,0 +1,50 @@
+{
+  "role": "AI Solution Architects",
+  "tracks": [
+    [
+      "AI and Generative AI Foundations",
+      "Week 1-2",
+      "Core vocabulary of AI, generative AI and LLMs that every architecture conversation builds on."
+    ],
+    [
+      "Machine Learning and Deep Learning Foundations",
+      "Week 2-3",
+      "Enough machine learning to reason about training, evaluation and model risk."
+    ],
+    [
+      "Building LLM Applications",
+      "Week 3-4",
+      "How LLM applications are built: prompting, APIs, tool use and app patterns."
+    ],
+    [
+      "RAG, Data and Vector Search",
+      "Week 4-5",
+      "Retrieval, embeddings and vector search: the data side of most enterprise AI designs."
+    ],
+    [
+      "Cloud AI Platforms",
+      "Week 5-6",
+      "Hands-on credentials on the AWS, Azure, Google Cloud and Oracle platforms you will design for, including running AI workloads."
+    ],
+    [
+      "Data Platforms and Databases",
+      "Week 6",
+      "Data platforms and databases that feed AI systems: lakehouses, warehouses and graph databases."
+    ],
+    [
+      "Agents, MCP and Orchestration",
+      "Week 6-8",
+      "Agent architectures, the Model Context Protocol and orchestration patterns."
+    ],
+    [
+      "Responsible AI, Security and Governance",
+      "Week 8-9",
+      "Responsible AI, security, privacy and governance controls architects are accountable for."
+    ],
+    [
+      "AI Strategy and Leadership",
+      "Week 9-10",
+      "AI strategy, adoption and leadership: how to sell and steer the architecture."
+    ]
+  ]
+}
