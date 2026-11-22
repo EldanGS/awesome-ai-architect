@@ -278,6 +278,7 @@ Every credential from these platforms is tracked in the tracker linked above.
 - [promptfoo](https://github.com/promptfoo/promptfoo) - Prompt, agent, and RAG testing with red teaming and vulnerability scanning.
 - [DeepEval](https://github.com/confident-ai/deepeval) - Pytest-style evaluation framework for LLM applications.
 - [Ragas](https://github.com/vibrantlabsai/ragas) - Metrics and test-data generation for evaluating RAG pipelines (formerly explodinggradients/ragas).
+- [EvalShift](https://github.com/evalshift/evalshift-cli) - Regression testing for model migrations that runs the same cases on the current and candidate model and reports what changed.
 - [OpenAI Evals](https://github.com/openai/evals) - Framework and registry for evaluating LLMs and LLM systems.
 - [LM Evaluation Harness](https://github.com/EleutherAI/lm-evaluation-harness) - Standard harness for benchmarking language models on academic tasks.
 - [HELM](https://github.com/stanford-crfm/helm) - Stanford's holistic, reproducible evaluation framework for foundation models.
